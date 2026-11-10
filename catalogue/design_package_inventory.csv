@@ -1,0 +1,8 @@
+repo_name,default_branch,artifact_paths,last_scan
+tidal-works,main,"plates/plate-001..026.tif, metadata/catalogue.csv, metadata/iiif-manifest.json, checksums.sha256, LICENSE.txt",2026-11-09
+tidal-works-notes,main,"notes/survey-log.md, notes/README.md",2026-11-09
+market-square,main,"plates/plate-001..024.tif, metadata/catalogue.csv, metadata/iiif-manifest.json, checksums.sha256, LICENSE.txt",2026-11-09
+market-square-exhibition,main,"site/index.html, site/README.md",2026-11-09
+canning-row,main,"plates/plate-001..018.tif, metadata/catalogue.csv, metadata/iiif-manifest.json, checksums.sha256, LICENSE.txt",2026-11-09
+canning-row-mapping,main,"mapping/layers.csv, mapping/README.md",2026-11-09
+ferry-lane,main,"plates/plate-001..008.tif, metadata/catalogue.csv",2026-11-09
